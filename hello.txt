@@ -5,3 +5,6 @@ hello world
 hello world
 
 왜 commit만 눌러도 push가 되냐
+    그건 내가 멍청하게 sync를 눌렀기 때문이다
+
+멍청하게 영어로 노트를 
