@@ -3,3 +3,5 @@ VScode에서 한글을 잘 쓰는 법
 
 hello world
 hello world
+
+왜 commit만 눌러도 push가 되냐
