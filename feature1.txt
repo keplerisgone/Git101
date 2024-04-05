@@ -1,1 +1,8 @@
 text file for a new feature.
+Using CLI, first pulling requests some like authorization, 
+but pushing(not 'push' in Git, just pushing button) 'Sync change' button in VScode,
+not requests authorization. 
+
+merging branch is not supported in Git, but in GitHub.
+in Github, we can use "Pull request", which performs merge branch.
+when conflict occurs, it provide web editor to  
